@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "WebApplication3",
+			"path": ".."
+		},
+		{
+			"name": "sirket-frontend",
+			"path": "../../../../sirket-frontend"
+		}
+	],
+	"settings": {}
+}

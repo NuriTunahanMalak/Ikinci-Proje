@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketData.deps.json
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketData.runtimeconfig.json
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketData.dll
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketData.pdb
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketEntites.dll
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\bin\Debug\net8.0\SirketEntites.pdb
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.csproj.Up2Date
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.dll
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\refint\SirketData.dll
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.pdb
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\SirketData.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WebApplication3\SirketData\obj\Debug\net8.0\ref\SirketData.dll
