@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YeniProjeDeneme1.props" />
+</Project>

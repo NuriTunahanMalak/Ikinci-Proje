@@ -1,0 +1,312 @@
+[
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "YeniProjeDeneme1.Dtos.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProductControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/ProductControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProductControllers",
+    "Method": "Create",
+    "RelativePath": "api/ProductControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProductCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProductControllers",
+    "Method": "Update",
+    "RelativePath": "api/ProductControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProductUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/ProjectControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectControllers",
+    "Method": "Create",
+    "RelativePath": "api/ProjectControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectControllers",
+    "Method": "Update",
+    "RelativePath": "api/ProjectControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectProductControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/ProjectProductControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectProductControllers",
+    "Method": "Create",
+    "RelativePath": "api/ProjectProductControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectProductCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectProductCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectProductControllers",
+    "Method": "Update",
+    "RelativePath": "api/ProjectProductControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectProductUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectProductUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectUserControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/ProjectUserControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectUserControllers",
+    "Method": "Create",
+    "RelativePath": "api/ProjectUserControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectUserCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.ProjectUserControllers",
+    "Method": "Update",
+    "RelativePath": "api/ProjectUserControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectUserUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.ProjectUserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.Sensor_dataControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/Sensor_dataControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.Sensor_dataControllers",
+    "Method": "Adding",
+    "RelativePath": "api/Sensor_dataControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_sensorDataCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.SensorDataCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.Sensor_dataControllers",
+    "Method": "Update",
+    "RelativePath": "api/Sensor_dataControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_sensorDataUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.SensorDataUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.SensorControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/SensorControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.SensorControllers",
+    "Method": "Create",
+    "RelativePath": "api/SensorControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sensorCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.SensorCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.SensorControllers",
+    "Method": "Update",
+    "RelativePath": "api/SensorControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sensorUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.SensorUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.UserControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/UserControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.UserControllers",
+    "Method": "Create",
+    "RelativePath": "api/UserControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCreateDto",
+        "Type": "YeniProjeDeneme1.Dtos.UserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YeniProjeDeneme1.Controllers.UserControllers",
+    "Method": "Update",
+    "RelativePath": "api/UserControllers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userUpdateDto",
+        "Type": "YeniProjeDeneme1.Dtos.UserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

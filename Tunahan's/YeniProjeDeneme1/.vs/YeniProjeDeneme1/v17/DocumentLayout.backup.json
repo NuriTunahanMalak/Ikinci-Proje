@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\stajvisualstudio\\YeniProjeDeneme1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\sensorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\sensorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\sensor_datacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\sensor_datacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\projectusercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\projectusercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\projectproductcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\projectproductcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\controllers\\projectcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\controllers\\projectcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\validator\\mainvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\validator\\mainvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\projectuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\projectuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\projectuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\projectuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\projectproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\projectproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\projectproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\projectproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\sensor_dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\sensor_dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\data\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\data\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\profiles\\allprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\profiles\\allprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\entities\\sensor_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\entities\\sensor_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\dtos\\sensor_datadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\dtos\\sensor_datadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|c:\\stajvisualstudio\\yeniprojedeneme1\\yeniprojedeneme1\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89436438-A924-4D1E-BF44-936C88F1B719}|YeniProjeDeneme1\\YeniProjeDeneme1.csproj|solutionrelative:yeniprojedeneme1\\entities\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\appsettings.json",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\appsettings.json",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\appsettings.json",
+              "RelativeToolTip": "YeniProjeDeneme1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T11:26:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Entities\\User.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\User.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:50:26.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\AuthService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\AuthService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\AuthService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:58:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\AuthControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\AuthControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\AuthControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\AuthControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:57:00.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\UserControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\UserControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\UserControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\UserControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:57:06.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:52:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\UserService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\UserService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:50:50.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectUserControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectUserControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\ProjectUserControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectUserControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\ProjectUserControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:47:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectUserService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectUserService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\ProjectUserService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectUserService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\ProjectUserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:41:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\ProjectControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\ProjectControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:35:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:30:59.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectProductControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectProductControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\ProjectProductControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProjectProductControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\ProjectProductControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:12:31.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Entities\\Product.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Product.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:19:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Entities\\Project.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Project.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:04:16.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectProductService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectProductService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\ProjectProductService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProjectProductService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\ProjectProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:04:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainValidator.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Validator\\MainValidator.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Validator\\MainValidator.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Validator\\MainValidator.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Validator\\MainValidator.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwG8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:58:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProductControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\ProductControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\ProductControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\ProductControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:01:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProjectProductDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectProductDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\ProjectProductDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectProductDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\ProjectProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:12:43.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\ProductService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\ProductService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:46:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sensor_DataService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\Sensor_DataService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\Sensor_DataService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\Sensor_DataService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\Sensor_DataService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:19:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:12:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SensorDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\SensorDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\SensorDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\SensorDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\SensorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:16:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Program.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Program.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Program.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:29:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ALLProfile.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Profiles\\ALLProfile.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Profiles\\ALLProfile.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Profiles\\ALLProfile.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Profiles\\ALLProfile.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:13:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\SensorControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\SensorControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\SensorControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\SensorControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:43:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sensor_dataControllers.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\Sensor_dataControllers.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Controllers\\Sensor_dataControllers.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Controllers\\Sensor_dataControllers.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Controllers\\Sensor_dataControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:13:35.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sensor_Data.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Sensor_Data.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Entities\\Sensor_Data.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Sensor_Data.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Entities\\Sensor_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:54:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sensor_dataDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\Sensor_dataDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\Sensor_dataDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\Sensor_dataDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\Sensor_dataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:48:57.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\SensorService.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Services\\SensorService.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Services\\SensorService.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Services\\SensorService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:05:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Sensor.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Entities\\Sensor.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Entities\\Sensor.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Entities\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:23:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\ProjectDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\ProjectDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:12:44.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectUserDto.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectUserDto.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Dtos\\ProjectUserDto.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Dtos\\ProjectUserDto.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Dtos\\ProjectUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:12:42.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Data\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "YeniProjeDeneme1\\Data\\AppDbContex.cs",
+              "ToolTip": "C:\\stajvisualstudio\\YeniProjeDeneme1\\YeniProjeDeneme1\\Data\\AppDbContex.cs",
+              "RelativeToolTip": "YeniProjeDeneme1\\Data\\AppDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:00:35.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

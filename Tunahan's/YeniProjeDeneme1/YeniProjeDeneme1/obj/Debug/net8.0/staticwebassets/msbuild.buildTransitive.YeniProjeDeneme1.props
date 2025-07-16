@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\YeniProjeDeneme1.props" />
+</Project>
