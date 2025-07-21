@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SirketData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d571dbddfbf197776c8de1f231585d937118a9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67e26aee60417c732e7df4b7f4303efbce400e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("SirketData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SirketData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

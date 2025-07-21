@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {}
+    "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {
+    "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
+        "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
         "projectName": "SirketEntites",
-        "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
+        "projectPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
         "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\obj\\",
+        "outputPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

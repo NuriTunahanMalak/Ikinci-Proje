@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tMNweosY0cM=",
+  "dgSpecHash": "ykIIrDlgXRg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IREM\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\IREM\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

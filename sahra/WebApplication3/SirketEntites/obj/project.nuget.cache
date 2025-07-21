@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tWvFt7HGMA=",
+  "dgSpecHash": "cpz+a+zM8HY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
+  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IREM\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\IREM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
