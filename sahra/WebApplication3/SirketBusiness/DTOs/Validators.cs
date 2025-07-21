@@ -41,6 +41,9 @@ namespace SirketBusiness.DTOs
         {
             RuleFor(x => x.Name).NotEmpty().WithMessage("Sensör adı boş olamaz");
             RuleFor(x => x.SensorType).NotEmpty().WithMessage("Sensör tipi boş olamaz");
+
+            RuleFor(x => x.ProductId).GreaterThan(0).WithMessage("ProductId pozitif olmalı ve seçilmeli");
+
         }
     }
 
@@ -51,6 +54,7 @@ namespace SirketBusiness.DTOs
             RuleFor(x => x.SensorId).GreaterThan(0).WithMessage("SensorId pozitif olmalı");
             RuleFor(x => x.Value).NotNull().WithMessage("Değer boş olamaz");
             RuleFor(x => x.Timestamp).NotEmpty().WithMessage("Zaman bilgisi boş olamaz");
+           
         }
     }
 } 

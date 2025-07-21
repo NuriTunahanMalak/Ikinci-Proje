@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\",
   "Documents": [
     {
@@ -80,6 +81,179 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketdata\\sirketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|solutionrelative:sirketdata\\sirketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\isensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\isensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\projectproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\projectproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\projectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\projectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketdata\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|solutionrelative:sirketdata\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\webapplication3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\webapplication3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\webapplication3.code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\webapplication3.code-workspace||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\sirket-frontend\\src\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketbusiness\\interfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\sirketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\sirketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|solutionrelative:sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,19 +264,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Sensor.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\Sensor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Sensor.cs",
+              "RelativeToolTip": "SirketEntites\\Sensor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:13:27.646Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\User.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\User.cs",
+              "RelativeToolTip": "SirketEntites\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:11:46.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SirketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\SirketDbContext.cs",
+              "RelativeDocumentMoniker": "SirketData\\SirketDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\SirketDbContext.cs",
+              "RelativeToolTip": "SirketData\\SirketDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:50:21.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:25:48.028Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
@@ -124,11 +339,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T12:13:40.238Z",
+=======
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:40:34.158Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Product.cs",
               "RelativeDocumentMoniker": "SirketEntites\\Product.cs",
@@ -173,10 +399,33 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T10:54:34.021Z"
+=======
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\Validators.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\Validators.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\Validators.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\Validators.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:59:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISensorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\ISensorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\ISensorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:43:26.773Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProductDto.cs",
@@ -194,6 +443,24 @@
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SensorData.cs",
               "RelativeDocumentMoniker": "SirketEntites\\SensorData.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SensorData.cs",
+=======
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\SensorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
+              "RelativeToolTip": "SirketBusiness\\Services\\SensorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:44:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SensorData.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\SensorData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SensorData.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketEntites\\SensorData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,11 +468,355 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 8,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
+=======
+              "DocumentIndex": 17,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
+              "RelativeToolTip": "SirketBusiness\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:55:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Product.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Product.cs",
+              "RelativeToolTip": "SirketEntites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:13:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:26:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\SensorDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\SensorDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\SensorDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\SensorDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:47:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISensorDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:44:48.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:37:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProjectProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProjectProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:40:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserProject.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\UserProject.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\UserProject.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\UserProject.cs",
+              "RelativeToolTip": "SirketEntites\\UserProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:14:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Project.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\Project.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Project.cs",
+              "RelativeToolTip": "SirketEntites\\Project.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:12:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:36:37.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\ProjectProduct.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\ProjectProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\ProjectProduct.cs",
+              "RelativeToolTip": "SirketEntites\\ProjectProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:14:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:13:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:58:09.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:14:46.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:33:49.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:19:23.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\IDesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SirketData\\IDesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\IDesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "SirketData\\IDesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:17:19.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SirketBusiness\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:30:12.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T07:56:44.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\UserService.cs",
+              "RelativeToolTip": "SirketBusiness\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:55:33.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebApplication3.code-workspace",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.code-workspace",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.code-workspace",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.code-workspace",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.code-workspace",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T05:15:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebApplication3.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.http",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.http",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.http",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-16T05:15:38.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\sirket-frontend\\src\\Login.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\sirket-frontend\\src\\Login.js",
+              "ToolTip": "C:\\Users\\ASUS\\sirket-frontend\\src\\Login.js",
+              "RelativeToolTip": "..\\..\\..\\sirket-frontend\\src\\Login.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-14T12:17:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Department.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\Department.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\Department.cs",
+              "RelativeToolTip": "SirketEntites\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:12:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProjectDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\ProjectDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\ProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:27:34.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:55:06.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "SirketBusiness\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:16:14.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:54:34.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Services\\ProductService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,6 +824,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 9,
               "Title": "SensorService.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
@@ -242,6 +854,13 @@
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IUserService.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
+=======
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,6 +868,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 12,
               "Title": "ISensorDataService.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
@@ -266,6 +886,13 @@
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+=======
+              "DocumentIndex": 39,
+              "Title": "IDepartmentServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,11 +900,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 14,
               "Title": "SensorDataController.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorDataController.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
+=======
+              "DocumentIndex": 40,
+              "Title": "SensorDataController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorDataController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "WebApplication3\\Controllers\\SensorDataController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,6 +920,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 15,
               "Title": "ProjectProductController.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
@@ -314,6 +950,13 @@
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
               "RelativeDocumentMoniker": "SirketData\\Migrations\\20250711104926_mig1.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
+=======
+              "DocumentIndex": 42,
+              "Title": "20250711104926_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
+              "RelativeDocumentMoniker": "SirketData\\Migrations\\20250711104926_mig1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketData\\Migrations\\20250711104926_mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,15 +964,24 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 17,
               "Title": "SirketApi.csproj",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
               "RelativeDocumentMoniker": "WebApplication3\\SirketApi.csproj",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+=======
+              "DocumentIndex": 41,
+              "Title": "SirketApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\SirketApi.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+>>>>>>> Stashed changes
               "RelativeToolTip": "WebApplication3\\SirketApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-11T08:58:55.382Z"
+<<<<<<< Updated upstream
             },
             {
               "$type": "Document",
@@ -342,6 +994,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T07:14:20.756Z"
+=======
+>>>>>>> Stashed changes
             }
           ]
         }

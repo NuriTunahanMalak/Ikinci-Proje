@@ -277,9 +277,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "projectProduct",
-        "Type": "SirketEntites.ProjectProduct",
-        "IsRequired": true
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

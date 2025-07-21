@@ -51,6 +51,8 @@ namespace SirketData
                 .WithMany(p => p.ProjectProducts)
                 .HasForeignKey(pp => pp.ProductId);
 
+            
+
             // User-Department ilişkisi
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Department)

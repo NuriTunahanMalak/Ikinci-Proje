@@ -81,6 +81,9 @@ namespace SirketData.Migrations
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
 
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
                     b.HasKey("ProjectId", "ProductId");
 
                     b.HasIndex("ProductId");

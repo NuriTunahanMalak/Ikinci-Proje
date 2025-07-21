@@ -4432,23 +4432,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IREM\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\SirketData.csproj",
       "projectName": "SirketData",
       "projectPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\SirketData.csproj",
       "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\SirketData.csproj",
+      "projectName": "SirketData",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\SirketData.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4463,8 +4471,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< Updated upstream
             "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {
               "projectPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SirketEntites.csproj"
+=======
+            "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SirketEntites.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SirketEntites.csproj"
+>>>>>>> Stashed changes
             }
           }
         }
@@ -4479,7 +4492,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4520,7 +4533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

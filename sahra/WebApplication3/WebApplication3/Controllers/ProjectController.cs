@@ -1,9 +1,12 @@
 ﻿using AutoMapper;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SirketBusiness.DTOs;
 using SirketBusiness.Interfaces;
 using SirketEntites;
+using SirketData; // DbContext için
 
 [ApiController]
 [Route("api/[controller]")]
@@ -11,17 +14,19 @@ public class ProjectController : ControllerBase
 {
     private readonly IProjectService _projectService;
     private readonly IMapper _mapper;
+    private readonly SirketDbContext _context;
 
-    public ProjectController(IProjectService projectService, IMapper mapper)
+    public ProjectController(IProjectService projectService, IMapper mapper, SirketDbContext context)
     {
         _projectService = projectService;
         _mapper = mapper;
+        _context = context;
     }
 
     [HttpGet]
     public async Task<IActionResult> GetAllProjects()
     {
-        var currentUserName = User.Identity?.Name; //admin mi user mı diye kontrol usersa yalnızca kendi bilgilerini görür
+        var currentUserName = User.Identity?.Name;
         var currentUserRole = User.Claims.FirstOrDefault(c => c.Type == System.Security.Claims.ClaimTypes.Role)?.Value;
         if (currentUserRole == "Admin")
         {
@@ -31,9 +36,19 @@ public class ProjectController : ControllerBase
         }
         else
         {
-            // Kullanıcının dahil olduğu projeleri getir
+            // Kullanıcıyı doğrudan User tablosundan bul
+            var user = await _context.Users
+                .Include(u => u.UserProjects)
+                .FirstOrDefaultAsync(u => u.Username == currentUserName);
+
+            if (user == null) return Unauthorized();
+
+            // Kullanıcının dahil olduğu projelerin ID'leri
+            var userProjectIds = user.UserProjects.Select(up => up.ProjectId).ToList();
+
             var projects = await _projectService.GetAllProjectsAsync();
-            var userProjects = projects.Where(p => p.UserProjects.Any(up => up.User.Username == currentUserName)).ToList();
+            var userProjects = projects.Where(p => userProjectIds.Contains(p.Id)).ToList();
+
             var projectDtos = _mapper.Map<List<ProjectDto>>(userProjects);
             return Ok(projectDtos);
         }
@@ -46,8 +61,17 @@ public class ProjectController : ControllerBase
         var currentUserRole = User.Claims.FirstOrDefault(c => c.Type == System.Security.Claims.ClaimTypes.Role)?.Value;
         var project = await _projectService.GetProjectByIdAsync(id);
         if (project == null) return NotFound();
-        if (currentUserRole != "Admin" && !project.UserProjects.Any(up => up.User.Username == currentUserName))
-            return Forbid();
+
+        if (currentUserRole != "Admin")
+        {
+            var user = await _context.Users
+                .Include(u => u.UserProjects)
+                .FirstOrDefaultAsync(u => u.Username == currentUserName);
+
+            if (user == null || !user.UserProjects.Any(up => up.ProjectId == id))
+                return Forbid();
+        }
+
         var projectDto = _mapper.Map<ProjectDto>(project);
         return Ok(projectDto);
     }

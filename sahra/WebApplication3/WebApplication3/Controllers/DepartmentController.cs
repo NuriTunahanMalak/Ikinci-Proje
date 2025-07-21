@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using SirketBusiness.Interfaces;
 using SirketEntites;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.EntityFrameworkCore;
+using SirketData;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -10,11 +12,14 @@ public class DepartmentController : ControllerBase
 {
     private readonly IDepartmentService _departmentService;
     private readonly IMapper _mapper;
+    private readonly SirketDbContext _context;
 
-    public DepartmentController(IDepartmentService departmentService, IMapper mapper)
+    // Constructor: Tüm bağımlılıkları burada alıyoruz
+    public DepartmentController(IDepartmentService departmentService, IMapper mapper, SirketDbContext context)
     {
         _departmentService = departmentService;
         _mapper = mapper;
+        _context = context;
     }
 
     [HttpGet]
@@ -30,11 +35,10 @@ public class DepartmentController : ControllerBase
         }
         else
         {
-            // Kullanıcının departmanını getir
-            var users = await _departmentService.GetAllAsync(); // Tüm departmanlar
-            var user = users.SelectMany(d => d.Users).FirstOrDefault(u => u.Username == currentUserName);
+            // Kullanıcıyı doğrudan User tablosundan bul
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == currentUserName);
             if (user == null) return Unauthorized();
-            var department = users.FirstOrDefault(d => d.Id == user.DepartmentId);
+            var department = await _departmentService.GetByIdAsync(user.DepartmentId);
             if (department == null) return NotFound();
             var dto = _mapper.Map<DepartmentDto>(department);
             return Ok(new List<DepartmentDto> { dto });
@@ -48,8 +52,13 @@ public class DepartmentController : ControllerBase
         var currentUserRole = User.Claims.FirstOrDefault(c => c.Type == System.Security.Claims.ClaimTypes.Role)?.Value;
         var department = await _departmentService.GetByIdAsync(id);
         if (department == null) return NotFound();
-        if (currentUserRole != "Admin" && !department.Users.Any(u => u.Username == currentUserName))
-            return Forbid();
+        if (currentUserRole != "Admin")
+        {
+            // Kullanıcıyı doğrudan User tablosundan bul
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == currentUserName);
+            if (user == null || user.DepartmentId != id)
+                return Forbid();
+        }
         var dto = _mapper.Map<DepartmentDto>(department);
         return Ok(dto);
     }

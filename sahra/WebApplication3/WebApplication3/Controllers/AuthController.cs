@@ -28,7 +28,7 @@ public class AuthController : ControllerBase
     public async Task<IActionResult> Login([FromBody] LoginModel model)
     {
         // 1. Koddan admin kontrolü
-        if (model.Username == "admin" && model.Password == "admin")
+        if (model.Username == "admin" && model.Password == "admiN123450")
         {
             var token = GenerateJwtToken("admin", "Admin");
             return Ok(new { token });

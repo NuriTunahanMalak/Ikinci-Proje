@@ -175,10 +175,10 @@ C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\stat
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SirketApi.props
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SirketApi.props
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\SirketApi.csproj.Up2Date
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\SirketApi.dll
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\refint\SirketApi.dll
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\SirketApi.pdb
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\SirketApi.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\ref\SirketApi.dll
-C:\Users\ASUS\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

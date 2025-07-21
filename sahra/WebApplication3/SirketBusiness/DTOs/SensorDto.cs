@@ -14,7 +14,8 @@
    
         public string SensorType { get; set; }
 
-        public string ProductId { get; set; }  
+        public int ProductId { get; set; }
+       
     }
 
     public class SensorDataDto
@@ -30,5 +31,6 @@
         public int SensorId { get; set; }
         public double Value { get; set; }
         public DateTime Timestamp { get; set; }
+        
     }
 }
