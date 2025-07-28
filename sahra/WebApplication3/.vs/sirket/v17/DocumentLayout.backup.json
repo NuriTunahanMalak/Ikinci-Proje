@@ -1,35 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\",
+<<<<<<< Updated upstream
+  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\sirketdata\\sirketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|solutionrelative:sirketdata\\sirketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\sirketbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\sirketbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\sirketentites\\projectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\projectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketentites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\ikinci-proje\\sahra\\webapplication3\\sirketentites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketentites\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\isensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\isensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\interfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\interfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\controllers\\projectproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\projectproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketbusiness\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66241B7F-8C3D-44E7-9AA6-281B3F998886}|SirketBusiness\\SirketBusiness.csproj|solutionrelative:sirketbusiness\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\webapplication3\\sirketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\sirketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketentites\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\irem\\onedrive\\desktop\\github\\ikinci-proje\\sahra\\webapplication3\\sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
 =======
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
       "AbsoluteMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\webapplication3\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD830D9-17F3-4A5D-ACFD-63A8AF163A43}|WebApplication3\\SirketApi.csproj|solutionrelative:webapplication3\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,7 +213,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketentites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{7A38F6AB-4DFD-4D77-BB90-4145C74F5359}|SirketEntites\\SirketEntites.csproj|solutionrelative:sirketentites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -199,6 +253,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|c:\\users\\asus\\source\\repos\\webapplication3\\sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{2FB2E0C7-F47C-4827-A554-B20959820564}|SirketData\\SirketData.csproj|solutionrelative:sirketdata\\migrations\\20250711104926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -209,17 +264,6 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-=======
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -269,53 +313,39 @@
               "ViewState": "AgIAABAAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:25:48.028Z"
->>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
 <<<<<<< Updated upstream
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\appsettings.json*",
-              "RelativeToolTip": "WebApplication3\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-16T13:01:00.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SirketDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\SirketDbContext.cs",
-              "RelativeDocumentMoniker": "SirketData\\SirketDbContext.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\SirketDbContext.cs",
-              "RelativeToolTip": "SirketData\\SirketDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:00:48.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SirketBusiness",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\SirketBusiness.csproj",
-              "RelativeDocumentMoniker": "SirketBusiness\\SirketBusiness.csproj",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\SirketBusiness.csproj",
-              "RelativeToolTip": "SirketBusiness\\SirketBusiness.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T13:00:34.402Z",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:13:40.238Z",
 =======
               "Title": "SensorController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorController.cs*",
-              "RelativeToolTip": "WebApplication3\\Controllers\\SensorController.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEYAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:40:34.158Z",
 >>>>>>> Stashed changes
@@ -325,37 +355,50 @@
               "$type": "Document",
               "DocumentIndex": 3,
 <<<<<<< Updated upstream
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "SirketBusiness\\DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Product.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\Product.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Product.cs",
+              "RelativeToolTip": "SirketEntites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T11:25:48.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T07:13:15.245Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "WebApplication3\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T12:13:40.238Z"
+              "WhenOpened": "2025-07-11T10:55:06.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProjectProduct.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\ProjectProduct.cs",
-              "RelativeDocumentMoniker": "SirketEntites\\ProjectProduct.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\ProjectProduct.cs",
-              "RelativeToolTip": "SirketEntites\\ProjectProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "SirketBusiness\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:16:14.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:54:34.021Z"
 =======
               "Title": "Validators.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\DTOs\\Validators.cs",
@@ -375,127 +418,49 @@
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
               "RelativeToolTip": "SirketBusiness\\Interfaces\\ISensorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:43:26.773Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 6,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Department.cs",
-              "RelativeDocumentMoniker": "SirketEntites\\Department.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Department.cs",
-              "RelativeToolTip": "SirketEntites\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-=======
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "SirketBusiness\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:26:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SensorData.cs",
+              "RelativeDocumentMoniker": "SirketEntites\\SensorData.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\SensorData.cs",
+=======
               "Title": "SensorService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Services\\SensorService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
               "RelativeToolTip": "SirketBusiness\\Services\\SensorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:44:09.644Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 11,
-              "Title": "ProjectDto.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProjectDto.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProjectDto.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProjectDto.cs",
-              "RelativeToolTip": "SirketBusiness\\DTOs\\ProjectDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T11:27:34.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Project.cs",
-              "RelativeDocumentMoniker": "SirketEntites\\Project.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Project.cs",
-              "RelativeToolTip": "SirketEntites\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T07:12:08.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Product.cs",
-              "RelativeDocumentMoniker": "SirketEntites\\Product.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\Product.cs",
-              "RelativeToolTip": "SirketEntites\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T07:13:15.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:55:06.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "SirketBusiness\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywBkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T12:16:14.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IProjectService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IProjectService.cs",
-              "RelativeToolTip": "SirketBusiness\\Interfaces\\IProjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:54:34.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "SirketBusiness\\DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "SirketBusiness\\DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T11:26:54.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-=======
               "DocumentIndex": 4,
->>>>>>> Stashed changes
               "Title": "SensorData.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SensorData.cs",
               "RelativeDocumentMoniker": "SirketEntites\\SensorData.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketEntites\\SensorData.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketEntites\\SensorData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -504,7 +469,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
 =======
               "DocumentIndex": 17,
               "Title": "ProjectService.cs",
@@ -843,11 +812,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 37,
->>>>>>> Stashed changes
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Services\\ProductService.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Services\\ProductService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -856,11 +825,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "SensorService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Services\\SensorService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\SensorService.cs",
               "RelativeToolTip": "SirketBusiness\\Services\\SensorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -868,11 +837,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "ISensorService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\ISensorService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorService.cs",
               "RelativeToolTip": "SirketBusiness\\Interfaces\\ISensorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -880,14 +849,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
 =======
               "DocumentIndex": 38,
->>>>>>> Stashed changes
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IUserService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IUserService.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -896,11 +869,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "ISensorDataService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\ISensorDataService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\ISensorDataService.cs",
               "RelativeToolTip": "SirketBusiness\\Interfaces\\ISensorDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -908,14 +881,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
+              "Title": "IDepartmentServices.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+              "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
 =======
               "DocumentIndex": 39,
->>>>>>> Stashed changes
               "Title": "IDepartmentServices.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketBusiness\\Interfaces\\IDepartmentServices.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketBusiness\\Interfaces\\IDepartmentServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -924,14 +901,18 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
+              "Title": "SensorDataController.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorDataController.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
 =======
               "DocumentIndex": 40,
->>>>>>> Stashed changes
               "Title": "SensorDataController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\SensorDataController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\SensorDataController.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "WebApplication3\\Controllers\\SensorDataController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -940,11 +921,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "ProjectProductController.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProjectProductController.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\Controllers\\ProjectProductController.cs",
               "RelativeToolTip": "WebApplication3\\Controllers\\ProjectProductController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -952,11 +933,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
               "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "SirketBusiness\\Services\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketBusiness\\Services\\ProjectService.cs",
               "RelativeToolTip": "SirketBusiness\\Services\\ProjectService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -964,14 +945,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 19,
+              "Title": "20250711104926_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
+              "RelativeDocumentMoniker": "SirketData\\Migrations\\20250711104926_mig1.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
 =======
               "DocumentIndex": 42,
->>>>>>> Stashed changes
               "Title": "20250711104926_mig1.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
               "RelativeDocumentMoniker": "SirketData\\Migrations\\20250711104926_mig1.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\SirketData\\Migrations\\20250711104926_mig1.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "SirketData\\Migrations\\20250711104926_mig1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -980,34 +965,36 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 24,
+              "DocumentIndex": 17,
+              "Title": "SirketApi.csproj",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\SirketApi.csproj",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\WebApplication3\\SirketApi.csproj",
 =======
               "DocumentIndex": 41,
->>>>>>> Stashed changes
               "Title": "SirketApi.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\SirketApi.csproj",
               "RelativeDocumentMoniker": "WebApplication3\\SirketApi.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication3\\WebApplication3\\SirketApi.csproj",
+>>>>>>> Stashed changes
               "RelativeToolTip": "WebApplication3\\SirketApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T08:58:55.382Z"
 <<<<<<< Updated upstream
-              "WhenOpened": "2025-07-11T08:58:55.382Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
               "Title": "UserProject.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\UserProject.cs",
+              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\UserProject.cs",
               "RelativeDocumentMoniker": "SirketEntites\\UserProject.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\UserProject.cs",
+              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Desktop\\GitHub\\Ikinci-Proje\\sahra\\WebApplication3\\SirketEntites\\UserProject.cs",
               "RelativeToolTip": "SirketEntites\\UserProject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T07:14:20.756Z"
 =======
-              "WhenOpened": "2025-07-11T08:58:55.382Z"
 >>>>>>> Stashed changes
             }
           ]

@@ -38,9 +38,45 @@ namespace SirketBusiness.Services
 
         public async Task UpdateProjectAsync(Project project)
         {
-            _context.Projects.Update(project);
+            // DB'den mevcut projeyi ilişkileriyle çek
+            var existingProject = await _context.Projects
+                .Include(p => p.UserProjects)
+                .Include(p => p.ProjectProducts)
+                .FirstOrDefaultAsync(p => p.Id == project.Id);
+
+            if (existingProject == null)
+                throw new Exception("Project not found");
+
+            // Eski ilişkileri sil
+            _context.UserProjects.RemoveRange(existingProject.UserProjects);
+            _context.ProjectProducts.RemoveRange(existingProject.ProjectProducts);
+
+            // Temel bilgileri güncelle
+            existingProject.Name = project.Name;
+
+            // Yeni gelen user ilişkilerini ekle
+            foreach (var up in project.UserProjects)
+            {
+                existingProject.UserProjects.Add(new UserProject
+                {
+                    UserId = up.UserId,
+                    ProjectId = existingProject.Id
+                });
+            }
+
+            // Yeni gelen product ilişkilerini ekle
+            foreach (var pp in project.ProjectProducts)
+            {
+                existingProject.ProjectProducts.Add(new ProjectProduct
+                {
+                    ProductId = pp.ProductId,
+                    ProjectId = existingProject.Id
+                });
+            }
+
             await _context.SaveChangesAsync();
         }
+
 
         public async Task DeleteProjectAsync(int id)
         {
